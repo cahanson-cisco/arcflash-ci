@@ -1,0 +1,7 @@
+intersight-keyid = "<keyid>"
+imc_local_admin_password = "<password>"
+intersight-secretkey = <<EOF
+-----BEGIN RSA PRIVATE KEY-----
+<privatekey>
+-----END RSA PRIVATE KEY-----
+EOF
